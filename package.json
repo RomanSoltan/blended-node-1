@@ -5,12 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "lint": "eslint src/**/*.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate": "node src/scripts/generateProducts.js",
     "add-one": "node src/scripts/addOneProduct.js",
     "get-all": "node src/scripts/getAllProducts.js",
     "count": "node src/scripts/countProducts.js",
-    "clear": "node src/scripts/clearProducts.js"
+    "clear": "node src/scripts/clearProducts.js",
+    "remove-random": "node src/scripts/removeRandomProduct.js"
   },
   "keywords": [],
   "author": "Roman Soltan <romabandit88@gmail.com>",
