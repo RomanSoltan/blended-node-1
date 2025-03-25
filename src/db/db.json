@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Sleek Bronze Sausages",
+    "price": "250.45",
+    "category": "Shoes",
+    "descripton": "The Optional asymmetric core Sausages offers reliable performance and frail design"
+  },
+  {
+    "name": "Bespoke Gold Towels",
+    "price": "632.40",
+    "category": "Shoes",
+    "descripton": "Experience the tan brilliance of our Pizza, perfect for weekly environments"
+  },
+  {
+    "name": "Fantastic Bronze Ball",
+    "price": "61.50",
+    "category": "Movies",
+    "descripton": "Discover the live new Bacon with an exciting mix of Metal ingredients"
+  }
+]
