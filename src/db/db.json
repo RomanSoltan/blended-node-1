@@ -4,5 +4,23 @@
     "price": "71.65",
     "category": "Health",
     "descripton": "Experience the mint green brilliance of our Hat, perfect for rapid environments"
+  },
+  {
+    "name": "Practical Bronze Bacon",
+    "price": "220.65",
+    "category": "Books",
+    "descripton": "Rustic Bike designed with Rubber for thin performance"
+  },
+  {
+    "name": "Unbranded Concrete Shoes",
+    "price": "179.00",
+    "category": "Health",
+    "descripton": "Ergonomic Pants made with Gold for all-day jagged support"
+  },
+  {
+    "name": "Elegant Silk Shoes",
+    "price": "685.75",
+    "category": "Toys",
+    "descripton": "Featuring Terbium-enhanced technology, our Computer offers unparalleled little performance"
   }
 ]
