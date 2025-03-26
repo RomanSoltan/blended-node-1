@@ -1,9 +1,5 @@
-import fs from 'node:fs/promises';
-import { PATH_DB } from '../constants/products.js';
+import { readProducts } from '../utils/readProducts.js';
 
-const getAllProducts = async () => {
-  const allProducts = await fs.readFile(PATH_DB, 'utf-8');
-  return JSON.parse(allProducts);
-};
+const getAllProducts = async () => await readProducts();
 
 console.log(await getAllProducts());
