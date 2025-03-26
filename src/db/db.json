@@ -1,14 +1,26 @@
 [
   {
-    "name": "Frozen Granite Car",
-    "price": "424.55",
-    "category": "Automotive",
-    "descripton": "Introducing the Guam-inspired Towels, blending married style with local craftsmanship"
+    "name": "Handcrafted Concrete Bike",
+    "price": "52.29",
+    "category": "Kids",
+    "descripton": "Our horse-friendly Gloves ensures scented comfort for your pets"
   },
   {
-    "name": "Bespoke Bronze Bacon",
-    "price": "220.30",
-    "category": "Books",
-    "descripton": "The Rasheed Chips is the latest in a series of hot products from Buckridge - Osinski"
+    "name": "Intelligent Wooden Shirt",
+    "price": "493.95",
+    "category": "Health",
+    "descripton": "Ergonomic Ball made with Wooden for all-day competent support"
+  },
+  {
+    "name": "Small Metal Table",
+    "price": "170.80",
+    "category": "Music",
+    "descripton": "Our golden-inspired Computer brings a taste of luxury to your unfit lifestyle"
+  },
+  {
+    "name": "Licensed Steel Chicken",
+    "price": "579.19",
+    "category": "Computers",
+    "descripton": "Experience the azure brilliance of our Chicken, perfect for smoggy environments"
   }
 ]
