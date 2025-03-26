@@ -1,17 +1,14 @@
-import fs from 'node:fs/promises';
 import { createFakeProduct } from '../utils/createFakeProduct.js';
-import { PATH_DB } from '../constants/products.js';
+import { readProducts } from '../utils/readProducts.js';
+import { writeProducts } from '../utils/writeProducts.js';
 
 export const generateProducts = async (number) => {
-  const productList = await fs.readFile(PATH_DB, 'utf-8');
-  const parsedProductList = JSON.parse(productList);
+  const productList = await readProducts();
   const newProducts = Array(number).fill(0).map(createFakeProduct);
-  const updateProductsArr = [...parsedProductList, ...newProducts];
-  await fs.writeFile(
-    PATH_DB,
-    JSON.stringify(updateProductsArr, null, 2),
-    'utf-8',
-  );
+  const updateProductsArr = [...productList, ...newProducts];
+  await writeProducts(updateProductsArr);
 };
 
 generateProducts(3);
+
+// перевірити скрипти
