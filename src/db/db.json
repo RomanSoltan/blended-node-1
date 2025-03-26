@@ -1,44 +1,14 @@
 [
   {
-    "name": "Modern Wooden Ball",
-    "price": "144.69",
-    "category": "Industrial",
-    "descripton": "New Table model with 38 GB RAM, 714 GB storage, and motionless features"
-  },
-  {
-    "name": "Unbranded Metal Mouse",
-    "price": "225.25",
+    "name": "Frozen Granite Car",
+    "price": "424.55",
     "category": "Automotive",
-    "descripton": "Our spicy-inspired Pizza brings a taste of luxury to your insistent lifestyle"
+    "descripton": "Introducing the Guam-inspired Towels, blending married style with local craftsmanship"
   },
   {
-    "name": "Rustic Cotton Pants",
-    "price": "176.89",
-    "category": "Shoes",
-    "descripton": "Ergonomic Soap made with Cotton for all-day gaseous support"
-  },
-  {
-    "name": "Unbranded Marble Bike",
-    "price": "10.19",
-    "category": "Health",
-    "descripton": "Introducing the Denmark-inspired Gloves, blending hopeful style with local craftsmanship"
-  },
-  {
-    "name": "Intelligent Cotton Sausages",
-    "price": "956.39",
-    "category": "Kids",
-    "descripton": "The Gideon Pants is the latest in a series of powerful products from Konopelski - Langworth"
-  },
-  {
-    "name": "Fantastic Plastic Chips",
-    "price": "405.45",
-    "category": "Automotive",
-    "descripton": "The sleek and energetic Mouse comes with teal LED lighting for smart functionality"
-  },
-  {
-    "name": "Recycled Rubber Shirt",
-    "price": "211.09",
-    "category": "Shoes",
-    "descripton": "Experience the grey brilliance of our Pizza, perfect for ashamed environments"
+    "name": "Bespoke Bronze Bacon",
+    "price": "220.30",
+    "category": "Books",
+    "descripton": "The Rasheed Chips is the latest in a series of hot products from Buckridge - Osinski"
   }
 ]
